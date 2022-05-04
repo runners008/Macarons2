@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x21f88Cbdc3D25E2De976F2AC2843Cb4E50F49adA",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x21f88cbdc3d25e2de976f2ac2843cb4e50f49ada",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Macarons",
+  "SYMBOL": "MCR",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/macarons",
+  "SHOW_BACKGROUND": true
+}
